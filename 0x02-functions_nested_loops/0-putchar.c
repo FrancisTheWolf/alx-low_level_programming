@@ -7,7 +7,7 @@
  *
  */
 
-int main(void)
+int _putchar(void)
 
 {
 	char letter[8] = "_putchar";
